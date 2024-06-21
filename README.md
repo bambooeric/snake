@@ -1,3 +1,7 @@
+# 最新免费可商用CMS系统
+基于 thinkphp6 + vue 的多站点多语言，SEO友好的开源CMS系统，可免费商用。
+https://gitee.com/digital-flag/huocms
+
 # snake
 thinkphp5.1 + layui 实现的带rbac的基础管理后台，方便快速开发法使用
 
@@ -38,9 +42,3 @@ https://www.kancloud.cn/nickbai/whisper-v2/988777
     
 3、访问 你配置的域名/admin 即可进入后台    
 默认用户名 密码  admin admin
-
-# 打赏作者  
-支付宝
-![支付宝](https://images.gitee.com/uploads/images/2019/1012/215507_3f9aebe2_552304.png)  
-微信
-![微信](https://images.gitee.com/uploads/images/2019/1012/215507_3e868b0e_552304.png) 
